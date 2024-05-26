@@ -11,4 +11,4 @@
 |11~13주차 - Maze|
 ||
 |기말고사 - 기말실기 문제풀이|
-|프로젝트 - MazeWatefall v1.0|
+|프로젝트 - Maze Runner v1.0|
